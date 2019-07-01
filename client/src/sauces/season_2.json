@@ -2,7 +2,7 @@
   {
     "id": 11,
     "name": "Sriracha",
-    "img_url": "https://hot-sauce-images.codinggarden.now.sh/jltrrbrmr4h8pezueh9z.jpg",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/sriracha.png",
     "search_string": "Sriracha Huy Fong",
     "maker": "Huy Fong",
     "origin": "Irwindale, CA",
@@ -12,7 +12,7 @@
   {
     "id": 12,
     "name": "Salsa Picante",
-    "img_url": "https://hot-sauce-images.codinggarden.now.sh/wqnkzi8evzzognokgrk9.jpg",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/tapatio.png",
     "search_string": "Salsa Picante Tapatio",
     "maker": "Tapatio",
     "origin": "Vernon, CA",
@@ -22,7 +22,7 @@
   {
     "id": 13,
     "name": "Red Habanero",
-    "img_url": "https://hot-sauce-images.codinggarden.now.sh/zajlk0mw0lq96zhcxtrl.jpg",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/yucateco-red.png",
     "search_string": "Red Habanero El Yucateco",
     "maker": "El Yucateco",
     "origin": "Yucatán, México",
@@ -32,17 +32,17 @@
   {
     "id": 5,
     "name": "Pain is Good Louisiana Style",
-    "img_url": "https://hot-sauce-images.codinggarden.now.sh/ir9xbore650b7kdrocag.jpg",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/pain-is-good.png",
     "search_string": "Pain is Good Louisiana Style Spicin Foods (FKA Original Juan)",
     "maker": "Spicin Foods (FKA Original Juan)",
     "origin": "Kansas City, KS",
-    "website": "http://www.originaljuan.com",
+    "website": "https://www.spicinfoods.com/",
     "scovilles": 13000
   },
   {
     "id": 14,
     "name": "Fiery Chipotle (Hot Ones)",
-    "img_url": "https://hot-sauce-images.codinggarden.now.sh/rzh5rjlc3fujpwthfgnm.jpg",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/fiery-chipotle.png",
     "search_string": "Fiery Chipotle (Hot Ones) Cutino Sauce Co. (FKA Homeboy's)",
     "maker": "Cutino Sauce Co. (FKA Homeboy's)",
     "origin": "Phoenix, AZ",
@@ -52,7 +52,7 @@
   {
     "id": 15,
     "name": "Rogue",
-    "img_url": "https://hot-sauce-images.codinggarden.now.sh/up262ywrbmtk7dd1zioy.jpg",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/rogue.png",
     "search_string": "Rogue High River Sauces",
     "maker": "High River Sauces",
     "origin": "Port Washington, NY",
@@ -62,11 +62,11 @@
   {
     "id": 6,
     "name": "Pain 100% ",
-    "img_url": "https://hot-sauce-images.codinggarden.now.sh/toenhrhamfq8bhsloggf.jpg",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/pain-100.png",
     "search_string": "Pain 100%  Spicin Foods (FKA Original Juan)",
     "maker": "Spicin Foods (FKA Original Juan)",
     "origin": "Kansas City, KS",
-    "website": "http://www.originaljuan.com",
+    "website": "https://www.spicinfoods.com/",
     "scovilles": 40600
   },
   {
@@ -76,13 +76,13 @@
     "search_string": "Da' Bomb Beyond Insanity Spicin Foods (FKA Original Juan)",
     "maker": "Spicin Foods (FKA Original Juan)",
     "origin": "Kansas City, KS",
-    "website": "http://www.originaljuan.com",
+    "website": "https://www.spicinfoods.com/",
     "scovilles": 119700
   },
   {
     "id": 10,
     "name": "Mad Dog 357",
-    "img_url": "https://hot-sauce-images.codinggarden.now.sh/bczsk0riczdwxeoht8fg.gif",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/mad-dog-357.png",
     "search_string": "Mad Dog 357 Mad Dog 357",
     "maker": "Mad Dog 357",
     "origin": "Sudbury, MA",

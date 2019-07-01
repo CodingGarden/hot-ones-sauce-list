@@ -2,7 +2,7 @@
   {
     "id": 11,
     "name": "Sriracha",
-    "img_url": "https://hot-sauce-images.codinggarden.now.sh/jltrrbrmr4h8pezueh9z.jpg",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/sriracha.png",
     "search_string": "Sriracha Huy Fong",
     "maker": "Huy Fong",
     "origin": "Irwindale, CA",
@@ -12,7 +12,7 @@
   {
     "id": 18,
     "name": "Original Red",
-    "img_url": "https://hot-sauce-images.codinggarden.now.sh/bbpz6aihlkaep9jml3iv.jpg",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/tobasco.png",
     "search_string": "Original Red Tabasco",
     "maker": "Tabasco",
     "origin": "Avery Island, LA",
@@ -22,7 +22,7 @@
   {
     "id": 13,
     "name": "Red Habanero",
-    "img_url": "https://hot-sauce-images.codinggarden.now.sh/zajlk0mw0lq96zhcxtrl.jpg",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/yucateco-red.png",
     "search_string": "Red Habanero El Yucateco",
     "maker": "El Yucateco",
     "origin": "Yucatán, México",
@@ -32,7 +32,7 @@
   {
     "id": 19,
     "name": "Red Habanero & Black Coffee",
-    "img_url": "https://hot-sauce-images.codinggarden.now.sh/bsyzeihvdhdos780kvzg.jpg",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/red-habanero-black-coffee.png",
     "search_string": "Red Habanero & Black Coffee Queen Majesty",
     "maker": "Queen Majesty",
     "origin": "Brooklyn, NY",
@@ -42,7 +42,7 @@
   {
     "id": 14,
     "name": "Fiery Chipotle (Hot Ones)",
-    "img_url": "https://hot-sauce-images.codinggarden.now.sh/rzh5rjlc3fujpwthfgnm.jpg",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/fiery-chipotle.png",
     "search_string": "Fiery Chipotle (Hot Ones) Cutino Sauce Co. (FKA Homeboy's)",
     "maker": "Cutino Sauce Co. (FKA Homeboy's)",
     "origin": "Phoenix, AZ",
@@ -52,7 +52,7 @@
   {
     "id": 20,
     "name": "Ghost Pepper & Blueberry",
-    "img_url": "https://hot-sauce-images.codinggarden.now.sh/e58hni7h2rfkpgn2a5og.jpg",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/ghost-pepper-blueberry.png",
     "search_string": "Ghost Pepper & Blueberry Bravado Spice Co.",
     "maker": "Bravado Spice Co.",
     "origin": "Houston, TX",
@@ -62,7 +62,7 @@
   {
     "id": 21,
     "name": "Zombie Apocalypse",
-    "img_url": "https://hot-sauce-images.codinggarden.now.sh/jvipr0ivv8bv1z2ran09.png",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/zombie-apocalypse.png",
     "search_string": "Zombie Apocalypse Torchbearer Sauces",
     "maker": "Torchbearer Sauces",
     "origin": "Mechanicsburg, PA",
@@ -76,13 +76,13 @@
     "search_string": "Da' Bomb Beyond Insanity Spicin Foods (FKA Original Juan)",
     "maker": "Spicin Foods (FKA Original Juan)",
     "origin": "Kansas City, KS",
-    "website": "http://www.originaljuan.com",
+    "website": "https://www.spicinfoods.com/",
     "scovilles": 119700
   },
   {
     "id": 10,
     "name": "Mad Dog 357",
-    "img_url": "https://hot-sauce-images.codinggarden.now.sh/bczsk0riczdwxeoht8fg.gif",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/mad-dog-357.png",
     "search_string": "Mad Dog 357 Mad Dog 357",
     "maker": "Mad Dog 357",
     "origin": "Sudbury, MA",

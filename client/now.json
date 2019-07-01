@@ -1,6 +1,7 @@
 {
   "name": "hot-ones-sauce-list",
   "version": 2,
+  "alias": "hot-ones-sauce-list",
   "builds": [
     {
       "src": "package.json",

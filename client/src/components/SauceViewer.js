@@ -17,8 +17,7 @@ const styles = {
     textShadow: '0 -1px 4px #FFF, 0 -2px 10px #ff0, 0 -10px 20px #ff8000, 0 -18px 40px #F00',
   },
   bottle: {
-    marginTop: '30px',
-    height: '200px',
+    height: '280px',
   },
   containerItem: {
     width: '50%',

@@ -32,7 +32,7 @@
   {
     "id": 14,
     "name": "Fiery Chipotle (Hot Ones)",
-    "img_url": "https://hot-sauce-images.codinggarden.now.sh/rzh5rjlc3fujpwthfgnm.jpg",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/fiery-chipotle.png",
     "search_string": "Fiery Chipotle (Hot Ones) Cutino Sauce Co. (FKA Homeboy's)",
     "maker": "Cutino Sauce Co. (FKA Homeboy's)",
     "origin": "Phoenix, AZ",
@@ -76,7 +76,7 @@
     "search_string": "Da' Bomb Beyond Insanity Spicin Foods (FKA Original Juan)",
     "maker": "Spicin Foods (FKA Original Juan)",
     "origin": "Kansas City, KS",
-    "website": "http://www.originaljuan.com",
+    "website": "https://www.spicinfoods.com/",
     "scovilles": 135600
   },
   {
@@ -92,7 +92,7 @@
   {
     "id": 27,
     "name": "The Last Dab",
-    "img_url": "https://hot-sauce-images.codinggarden.now.sh/j2a5rgtmzql2vcldijwd.jpg",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/last-dab.png",
     "search_string": "The Last Dab Heatonist",
     "maker": "Heatonist",
     "origin": "Brooklyn, NY",
