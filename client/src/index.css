@@ -22,6 +22,40 @@ body {
   }
 }
 
+.sauce-enter {
+  opacity: 0.01;
+  transform: translate(0, 230px);
+}
+
+.sauce-enter.sauce-enter-active {
+  opacity: 1;
+  transform: translate(0, 0);
+  transition: all 800ms ease-in;
+}
+
+.sauce-leave {
+  opacity: 1;
+  transform: translate(0, 0);
+}
+
+.sauce-leave.sauce-leave-active {
+  opacity: 0.01;
+  transition: all 800ms ease-in;
+  transform: translate(0, -230px);
+  width: 0px;
+}
+
+.sauce-appear {
+  opacity: 0.01;
+  transform: translate(0, 230px);
+}
+
+.sauce-appear.sauce-appear-active {
+  opacity: 1;
+  transition: all 800ms ease-in;
+  transform: translate(0, 0);
+}
+
 ::-webkit-scrollbar {
   width: 20px;
 }

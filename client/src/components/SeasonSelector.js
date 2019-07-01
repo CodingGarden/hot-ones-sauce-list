@@ -14,7 +14,7 @@ const styles = {
   sideBar: {
     height: '100%',
     minWidth: '300px',
-    overflowY: 'scroll',
+    overflowY: 'auto',
   },
   seasonButton: {
     minWidth: '100px',

@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import injectSheet from 'react-jss';
 import PropTypes from 'prop-types';
 import { withRouter, Switch, Route } from 'react-router-dom';
+import ReactCSSTransitionGroup from 'react-addons-css-transition-group';
 
 import SauceViewer from './SauceViewer';
 
@@ -14,11 +15,12 @@ const styles = {
     flexDirection: 'column',
   },
   selectedSauce: {
-    height: '70%',
+    minHeight: '60%',
   },
   bottles: {
     display: 'flex',
     justifyContent: 'center',
+    alignItems: 'center',
     flexWrap: 'wrap',
     maxHeight: '410px',
     overflow: 'auto',
@@ -34,6 +36,17 @@ const styles = {
   selected: {
     background: 'red !important',
     boxShadow: '0 0 8px 8px black inset !important',
+  },
+  messageText: {
+    width: '100%',
+    height: '100%',
+    display: 'flex',
+    justifyContent: 'center',
+    alignItems: 'center',
+    textTransform: 'uppercase',
+    fontSize: '4em',
+    fontFamily: '\'Allerta Stencil\', sans-serif',
+    textShadow: '0 -1px 4px #FFF, 0 -2px 10px #ff0, 0 -10px 20px #ff8000, 0 -18px 40px #F00',
   },
 };
 
@@ -56,6 +69,13 @@ const SeasonViewer = ({ classes, match, history }) => {
       <div className={classes.selectedSauce}>
         <Switch>
           <Route
+            exact
+            path="/seasons/:season"
+            component={() => (
+              <h3 className={classes.messageText}>Select a sauce</h3>
+            )}
+          />
+          <Route
             path="*/sauces/:sauce_id"
             component={props => (
               <SauceViewer {...props} sauce={selectedSauce || null} />
@@ -63,7 +83,14 @@ const SeasonViewer = ({ classes, match, history }) => {
           />
         </Switch>
       </div>
-      <div className={classes.bottles}>
+      <ReactCSSTransitionGroup
+        className={classes.bottles}
+        transitionName="sauce"
+        transitionAppear
+        transitionAppearTimeout={800}
+        transitionEnterTimeout={800}
+        transitionLeaveTimeout={800}
+      >
         {
           sauces.map(sauce => (
             <img
@@ -75,7 +102,7 @@ const SeasonViewer = ({ classes, match, history }) => {
             />
           ))
         }
-      </div>
+      </ReactCSSTransitionGroup>
     </div>
   );
 };
