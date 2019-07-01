@@ -1,0 +1,102 @@
+[
+  {
+    "id": 44,
+    "name": "The Classic",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/hot-ones-classic.png",
+    "search_string": "The Classic Heatonist",
+    "maker": "Heatonist",
+    "origin": "Brooklyn, NY",
+    "website": "https://heatonist.com",
+    "scovilles": 1800
+  },
+  {
+    "id": 51,
+    "name": "Hippy Dippy Green",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/hipp-dippy-green.png",
+    "search_string": "Hippy Dippy Green Angry Goat Pepper Co.",
+    "maker": "Angry Goat Pepper Co.",
+    "origin": "White River Junction, VT",
+    "website": "http://www.angrygoatpepperco.com/",
+    "scovilles": 2300
+  },
+  {
+    "id": 52,
+    "name": "Paddy O's Potion Sauce",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/paddy-o-potion.png",
+    "search_string": "Paddy O's Potion Sauce Paddy O's Potion",
+    "maker": "Paddy O's Potion",
+    "origin": "Denver, CO",
+    "website": "http://potionsauce.com",
+    "scovilles": 8800
+  },
+  {
+    "id": 53,
+    "name": "Cheeba Gold",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/cheeba-gold.png",
+    "search_string": "Cheeba Gold High River Sauces",
+    "maker": "High River Sauces",
+    "origin": "Port Washington, NY",
+    "website": "http://highriversauces.com/",
+    "scovilles": 25300
+  },
+  {
+    "id": 39,
+    "name": "Los Calientes",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/hot-ones-los-calientes.png",
+    "search_string": "Los Calientes Heatonist",
+    "maker": "Heatonist",
+    "origin": "Brooklyn, NY",
+    "website": "https://heatonist.com",
+    "scovilles": 36000
+  },
+  {
+    "id": 54,
+    "name": "Kolohe Kid",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/kolohe-kid.png",
+    "search_string": "Kolohe Kid Adoboloco",
+    "maker": "Adoboloco",
+    "origin": "Maui, HI",
+    "website": "http://adoboloco.com/",
+    "scovilles": 61000
+  },
+  {
+    "id": 55,
+    "name": "Garlic Reaper",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/garlic-reaper.png",
+    "search_string": "Garlic Reaper Torchbearer Sauces",
+    "maker": "Torchbearer Sauces",
+    "origin": "Mechanicsburg, PA",
+    "website": "http://www.torchbearersauces.com/",
+    "scovilles": 116000
+  },
+  {
+    "id": 16,
+    "name": "Da' Bomb Beyond Insanity",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/da-bomb.png",
+    "search_string": "Da' Bomb Beyond Insanity Spicin Foods (FKA Original Juan)",
+    "maker": "Spicin Foods (FKA Original Juan)",
+    "origin": "Kansas City, KS",
+    "website": "http://www.originaljuan.com",
+    "scovilles": 135600
+  },
+  {
+    "id": 56,
+    "name": "Fear This!",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/fear-this-hell-fire.png",
+    "search_string": "Fear This! Hellfire Hot Sauce",
+    "maker": "Hellfire Hot Sauce",
+    "origin": "Lake Geneva, WI",
+    "website": "http://www.hellfirehotsauce.com/",
+    "scovilles": 679000
+  },
+  {
+    "id": 43,
+    "name": "The Last Dab Reduxx",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/last-dab-reduxx.png",
+    "search_string": "The Last Dab Reduxx Heatonist",
+    "maker": "Heatonist",
+    "origin": "Brooklyn, NY",
+    "website": "https://heatonist.com",
+    "scovilles": 2000000
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 44,
+    "name": "The Classic",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/hot-ones-classic.png",
+    "search_string": "The Classic Heatonist",
+    "maker": "Heatonist",
+    "origin": "Brooklyn, NY",
+    "website": "https://heatonist.com",
+    "scovilles": 1800
+  },
+  {
+    "id": 57,
+    "name": "Skinny Habanero",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/ivvnbfqvbqaw7tmyweg0.jpg",
+    "search_string": "Skinny Habanero Sauce Bae",
+    "maker": "Sauce Bae",
+    "origin": "Belmar, NJ",
+    "website": "https://www.saucebae.com/",
+    "scovilles": 2500
+  },
+  {
+    "id": 58,
+    "name": "Shaquanda's Hot Pepper Sauce",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/qis5f6mm5dx1cgzyamtm.jpg",
+    "search_string": "Shaquanda's Hot Pepper Sauce Shaquanda",
+    "maker": "Shaquanda",
+    "origin": "Brooklyn, NY",
+    "website": "https://shaquandawillfeedyou.com/",
+    "scovilles": 10100
+  },
+  {
+    "id": 59,
+    "name": "Year of the Dog",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/year-of-dog.png",
+    "search_string": "Year of the Dog Lucky Dog",
+    "maker": "Lucky Dog",
+    "origin": "Hayward, CA",
+    "website": "https://lucky-dog-hot-sauce.myshopify.com/",
+    "scovilles": 29800
+  },
+  {
+    "id": 39,
+    "name": "Los Calientes",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/hot-ones-los-calientes.png",
+    "search_string": "Los Calientes Heatonist",
+    "maker": "Heatonist",
+    "origin": "Brooklyn, NY",
+    "website": "https://heatonist.com",
+    "scovilles": 36000
+  },
+  {
+    "id": 60,
+    "name": "Habanero",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/k2n7esur2t2ayv80bszi.jpg",
+    "search_string": "Habanero Hell Fire Detroit",
+    "maker": "Hell Fire Detroit",
+    "origin": "Detroit, MI",
+    "website": "https://hellfiredetroit.com/",
+    "scovilles": 66000
+  },
+  {
+    "id": 61,
+    "name": "Trinidad Scorpion",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/wkukklo9slcmsr7jrhun.png",
+    "search_string": "Trinidad Scorpion Wiltshire Chilli Farm",
+    "maker": "Wiltshire Chilli Farm",
+    "origin": "Melksham, England",
+    "website": "http://fearlessflavour.com/",
+    "scovilles": 104000
+  },
+  {
+    "id": 16,
+    "name": "Da' Bomb Beyond Insanity",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/da-bomb.png",
+    "search_string": "Da' Bomb Beyond Insanity Spicin Foods (FKA Original Juan)",
+    "maker": "Spicin Foods (FKA Original Juan)",
+    "origin": "Kansas City, KS",
+    "website": "http://www.originaljuan.com",
+    "scovilles": 135600
+  },
+  {
+    "id": 62,
+    "name": "Chocolate Plague",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/chocolate-plague.jpg",
+    "search_string": "Chocolate Plague PuckerButt",
+    "maker": "PuckerButt",
+    "origin": "Fort Mill, SC",
+    "website": "https://puckerbuttpeppercompany.com/",
+    "scovilles": 690000
+  },
+  {
+    "id": 43,
+    "name": "The Last Dab Reduxx",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/last-dab-reduxx.png",
+    "search_string": "The Last Dab Reduxx Heatonist",
+    "maker": "Heatonist",
+    "origin": "Brooklyn, NY",
+    "website": "https://heatonist.com",
+    "scovilles": 2000000
+  }
+]

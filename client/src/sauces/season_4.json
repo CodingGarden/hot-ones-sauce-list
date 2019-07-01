@@ -1,0 +1,104 @@
+[
+  {
+    "id": 22,
+    "name": "Salsa Valentina",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/evh27lp9cywny77yctzk.jpg",
+    "search_string": "Salsa Valentina Salsa Tamazula",
+    "maker": "Salsa Tamazula",
+    "origin": "Jalisco, Mexico",
+    "website": "http://www.salsavalentina.com/",
+    "scovilles": 2100
+  },
+  {
+    "id": 23,
+    "name": "Crystal Hot Sauce",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/816yOa7nhLL.jpg",
+    "small_img_url": "",
+    "med_img_url": "",
+    "search_string": "Crystal Hot Sauce Crystal",
+    "maker": "Crystal",
+    "origin": "Metairie, LA",
+    "website": "https://www.baumerfoods.com",
+    "scovilles": 3000
+  },
+  {
+    "id": 24,
+    "name": "Habanero",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/7618__19765.1516007093.500.750.jpg",
+    "search_string": "Habanero Secret Aardvark",
+    "maker": "Secret Aardvark",
+    "origin": "Portland, OR",
+    "website": "http://secretaardvark.com/",
+    "scovilles": 5000
+  },
+  {
+    "id": 25,
+    "name": "Scotch Bonnet & Ginger",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/mfvswrjx3xegq2jkywn9.jpg",
+    "search_string": "Scotch Bonnet & Ginger Queen Majesty",
+    "maker": "Queen Majesty",
+    "origin": "Brooklyn, NY",
+    "website": "https://queenmajestyhotsauce.com",
+    "scovilles": 9000
+  },
+  {
+    "id": 14,
+    "name": "Fiery Chipotle (Hot Ones)",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/rzh5rjlc3fujpwthfgnm.jpg",
+    "search_string": "Fiery Chipotle (Hot Ones) Cutino Sauce Co. (FKA Homeboy's)",
+    "maker": "Cutino Sauce Co. (FKA Homeboy's)",
+    "origin": "Phoenix, AZ",
+    "website": "https://cutinosauce.com/",
+    "scovilles": 15600
+  },
+  {
+    "id": 26,
+    "name": "Hot Pepper",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/z04rp9a4e5nbdzeux69v.png",
+    "search_string": "Hot Pepper Dirty Dick's",
+    "maker": "Dirty Dick's",
+    "origin": "Norwell, MA",
+    "website": "http://www.dirtydickshotsauce.com/",
+    "scovilles": 21000
+  },
+  {
+    "id": 21,
+    "name": "Zombie Apocalypse",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/jvipr0ivv8bv1z2ran09.png",
+    "search_string": "Zombie Apocalypse Torchbearer Sauces",
+    "maker": "Torchbearer Sauces",
+    "origin": "Mechanicsburg, PA",
+    "website": "http://www.torchbearersauces.com/",
+    "scovilles": 100000
+  },
+  {
+    "id": 16,
+    "name": "Da' Bomb Beyond Insanity",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/da-bomb.png",
+    "search_string": "Da' Bomb Beyond Insanity Spicin Foods (FKA Original Juan)",
+    "maker": "Spicin Foods (FKA Original Juan)",
+    "origin": "Kansas City, KS",
+    "website": "http://www.originaljuan.com",
+    "scovilles": 119700
+  },
+  {
+    "id": 17,
+    "name": "Mega Death",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/mega-death.png",
+    "search_string": "Mega Death Blair's",
+    "maker": "Blair's",
+    "origin": "Highlands, NJ",
+    "website": "http://extremefood.com/",
+    "scovilles": 550000
+  },
+  {
+    "id": 27,
+    "name": "The Last Dab",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/j2a5rgtmzql2vcldijwd.jpg",
+    "search_string": "The Last Dab Heatonist",
+    "maker": "Heatonist",
+    "origin": "Brooklyn, NY",
+    "website": "https://heatonist.com",
+    "scovilles": 2000000
+  }
+]

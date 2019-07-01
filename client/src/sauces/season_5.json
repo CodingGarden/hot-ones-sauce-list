@@ -1,0 +1,102 @@
+[
+  {
+    "id": 28,
+    "name": "Ancho & Morita",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/qztksq6yoyncgkcm5alg.jpg",
+    "search_string": "Ancho & Morita Humble House",
+    "maker": "Humble House",
+    "origin": "San Antonio, TX",
+    "website": "https://www.humblehousefoods.com",
+    "scovilles": 450
+  },
+  {
+    "id": 29,
+    "name": "The Original",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/rifi9wz6rz57u9mymjdx.jpg",
+    "search_string": "The Original Louisiana Brand",
+    "maker": "Louisiana Brand",
+    "origin": "New Iberia, LA",
+    "website": "http://www.louisiana-brand.com/",
+    "scovilles": 550
+  },
+  {
+    "id": 30,
+    "name": "The Bronx Greenmarket Hot Sauce",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/lfshjivclkpdzjixkkug.png",
+    "search_string": "Green Market The Bronx Hot Sauce small axe peppers",
+    "maker": "Small Axe Peppers",
+    "origin": "Bronx, NY",
+    "website": "https://smallaxepeppers.com/",
+    "scovilles": 5500
+  },
+  {
+    "id": 14,
+    "name": "Fiery Chipotle (Hot Ones)",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/rzh5rjlc3fujpwthfgnm.jpg",
+    "search_string": "Fiery Chipotle (Hot Ones) Cutino Sauce Co. (FKA Homeboy's)",
+    "maker": "Cutino Sauce Co. (FKA Homeboy's)",
+    "origin": "Phoenix, AZ",
+    "website": "https://cutinosauce.com/",
+    "scovilles": 15600
+  },
+  {
+    "id": 31,
+    "name": "Hamajang Kiawe Smoked Ghost Pepper",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/x2pxrvvv0xhr85xg1mem.jpg",
+    "search_string": "Hamajang Kiawe Smoked Ghost Pepper Adoboloco",
+    "maker": "Adoboloco",
+    "origin": "Maui, HI",
+    "website": "http://adoboloco.com/",
+    "scovilles": 32000
+  },
+  {
+    "id": 32,
+    "name": "Extreme Karma",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/rwmozbgofcaywhtxiedz.png",
+    "search_string": "Extreme Karma Karma Sauce",
+    "maker": "Karma Sauce",
+    "origin": "Pittsford, NY",
+    "website": "https://www.karmasauce.com",
+    "scovilles": 56000
+  },
+  {
+    "id": 33,
+    "name": "Original Hot",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/zjim0qi8mi0v2nq6q6yx.jpg",
+    "search_string": "Original Hot Dawson's Hot Sauce",
+    "maker": "Dawson's Hot Sauce",
+    "origin": "Hamilton, Ontario",
+    "website": "https://dawsonshotsauce.com/",
+    "scovilles": 82000
+  },
+  {
+    "id": 16,
+    "name": "Da' Bomb Beyond Insanity",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/da-bomb.png",
+    "search_string": "Da' Bomb Beyond Insanity Spicin Foods (FKA Original Juan)",
+    "maker": "Spicin Foods (FKA Original Juan)",
+    "origin": "Kansas City, KS",
+    "website": "http://www.originaljuan.com",
+    "scovilles": 135600
+  },
+  {
+    "id": 34,
+    "name": "Gold Edition",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/qil1bcx3ejdj8qjennos.jpg",
+    "search_string": "Gold Edition Mad Dog 357",
+    "maker": "Mad Dog 357",
+    "origin": "Sudbury, MA",
+    "website": "https://www.maddog357.com/",
+    "scovilles": 1000000
+  },
+  {
+    "id": 27,
+    "name": "The Last Dab",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/j2a5rgtmzql2vcldijwd.jpg",
+    "search_string": "The Last Dab Heatonist",
+    "maker": "Heatonist",
+    "origin": "Brooklyn, NY",
+    "website": "https://heatonist.com",
+    "scovilles": 2000000
+  }
+]

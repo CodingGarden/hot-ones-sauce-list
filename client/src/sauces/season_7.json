@@ -1,0 +1,102 @@
+[
+  {
+    "id": 44,
+    "name": "The Classic",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/hot-ones-classic.png",
+    "search_string": "The Classic Heatonist",
+    "maker": "Heatonist",
+    "origin": "Brooklyn, NY",
+    "website": "https://heatonist.com",
+    "scovilles": 1800
+  },
+  {
+    "id": 45,
+    "name": "Guajillo & Red Jalapeno",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/quajillo-red-jalapeno.png",
+    "search_string": "Guajillo & Red Jalapeno Humble House",
+    "maker": "Humble House",
+    "origin": "San Antonio, TX",
+    "website": "https://www.humblehousefoods.com",
+    "scovilles": 2100
+  },
+  {
+    "id": 46,
+    "name": "Maple Wood Smoked Onion",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/4866924937314_1024x1024.jpg",
+    "search_string": "Smoked Onion Butterfly Bakery",
+    "maker": "Butterfly Bakery",
+    "origin": "Montpelier, VT",
+    "website": "https://butterflybakeryvt.com",
+    "scovilles": 7900
+  },
+  {
+    "id": 47,
+    "name": "Habanero Mango",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/whebjjf0hyx1jakhpkid.jpg",
+    "search_string": "Habanero Mango Small Axe Peppers",
+    "maker": "Small Axe Peppers",
+    "origin": "Bronx, NY",
+    "website": "https://smallaxepeppers.com/",
+    "scovilles": 22500
+  },
+  {
+    "id": 39,
+    "name": "Los Calientes",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/hot-ones-los-calientes.png",
+    "search_string": "Los Calientes Heatonist",
+    "maker": "Heatonist",
+    "origin": "Brooklyn, NY",
+    "website": "https://heatonist.com",
+    "scovilles": 36000
+  },
+  {
+    "id": 48,
+    "name": "Assam",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/s3h982rue6iiroxuohp2.jpg",
+    "search_string": "Assam Clark + Hopkins",
+    "maker": "Clark + Hopkins",
+    "origin": "Winchester, VA",
+    "website": "https://clark-and-hopkins.myshopify.com/",
+    "scovilles": 55000
+  },
+  {
+    "id": 49,
+    "name": "Firewater",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/culleys-fire-water.png",
+    "search_string": "Firewater Culley's",
+    "maker": "Culley's",
+    "origin": "Auckland, New Zealand",
+    "website": "http://culleys.co.nz/",
+    "scovilles": 112000
+  },
+  {
+    "id": 16,
+    "name": "Da' Bomb Beyond Insanity",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/da-bomb.png",
+    "search_string": "Da' Bomb Beyond Insanity Spicin Foods (FKA Original Juan)",
+    "maker": "Spicin Foods (FKA Original Juan)",
+    "origin": "Kansas City, KS",
+    "website": "http://www.originaljuan.com",
+    "scovilles": 135600
+  },
+  {
+    "id": 50,
+    "name": "Exhorresco: 7 Pot Primo",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/exhorresco-7-pot-primo.jpg",
+    "search_string": "Exhorresco: 7 Pot Primo Burns & McCoy Burns and McCoy",
+    "maker": "Burns & McCoy",
+    "origin": "Fort Collins, CO",
+    "website": "https://burnsandmccoy.com/",
+    "scovilles": 625000
+  },
+  {
+    "id": 43,
+    "name": "The Last Dab Reduxx",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/last-dab-reduxx.png",
+    "search_string": "The Last Dab Reduxx Heatonist",
+    "maker": "Heatonist",
+    "origin": "Brooklyn, NY",
+    "website": "https://heatonist.com",
+    "scovilles": 2000000
+  }
+]
