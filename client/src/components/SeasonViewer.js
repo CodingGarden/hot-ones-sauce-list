@@ -23,14 +23,22 @@ const styles = {
     maxHeight: '410px',
     overflow: 'auto',
     '& img': {
-      height: '200px',
+      height: '230px',
       cursor: 'pointer',
+      '&:hover': {
+        background: 'yellow',
+        boxShadow: '0 0 8px 8px black inset',
+      },
     },
+  },
+  selected: {
+    background: 'red !important',
+    boxShadow: '0 0 8px 8px black inset !important',
   },
 };
 
 const SeasonViewer = ({ classes, match, history }) => {
-  const { season } = match.params;
+  const { season, sauce_id } = match.params;
   const [sauces, setSauces] = useState([]);
   const [selectedSauce, setSelectedSauce] = useState(null);
   useEffect(() => {
@@ -62,6 +70,7 @@ const SeasonViewer = ({ classes, match, history }) => {
               key={sauce.id}
               src={sauce.img_url}
               alt={sauce.name}
+              className={sauce.id == sauce_id ? classes.selected : ''}
               onClick={() => history.push(`/seasons/${season}/sauces/${sauce.id}`)}
             />
           ))

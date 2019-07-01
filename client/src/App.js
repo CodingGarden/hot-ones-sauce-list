@@ -13,7 +13,10 @@ function App() {
         height: '100%',
       }}
     >
-      <SeasonSelector />
+      <Switch>
+        <Route exact path="/" component={SeasonSelector} />
+        <Route path="/seasons/:season" component={SeasonSelector} />
+      </Switch>
       <Switch>
         <Route exact path="/seasons/:season" component={SeasonViewer} />
         <Route path="/seasons/:season/sauces/:sauce_id" component={SeasonViewer} />

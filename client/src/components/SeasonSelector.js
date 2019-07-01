@@ -32,25 +32,32 @@ const styles = {
       color: 'black',
     },
   },
+  selected: {
+    background: 'yellow',
+    color: 'black',
+  },
 };
 
-const SeasonSelector = ({ classes, history }) => (
-  <div className={classes.sideBar}>
-    {
-      seasons.map((_, i) => (
-        <div
-          key={i}
-          className={classes.seasonButton}
-          onClick={() => history.push(`/seasons/${i + 1}`)}
-        >
-          Season
-          {' '}
-          {i + 1}
-        </div>
-      ))
-    }
-  </div>
-);
+const SeasonSelector = ({ classes, history, match }) => {
+  const { season } = match.params;
+  return (
+    <div className={classes.sideBar}>
+      {
+        seasons.map((_, i) => (
+          <div
+            key={i}
+            className={`${classes.seasonButton} ${season == (i + 1) ? classes.selected : ''}`}
+            onClick={() => history.push(`/seasons/${i + 1}`)}
+          >
+            Season
+            {' '}
+            {i + 1}
+          </div>
+        ))
+      }
+    </div>
+  );
+};
 
 SeasonSelector.propTypes = {
   classes: PropTypes.shape({}).isRequired,
