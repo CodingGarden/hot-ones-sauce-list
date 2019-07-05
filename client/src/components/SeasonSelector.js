@@ -5,10 +5,16 @@ import { withRouter } from 'react-router-dom';
 
 const seasons = [];
 for (let i = 1; i <= 9; i += 1) {
-  // eslint-disable-next-line
-  const sauces = require(`../sauces/season_${i}.json`);
-  seasons.push(sauces);
+  seasons.push({
+    file: i,
+    name: `Season ${i}`,
+  });
 }
+
+seasons.push({
+  file: 'code_katas',
+  name: 'Code Katas #27',
+});
 
 const styles = {
   sideBar: {
@@ -43,15 +49,13 @@ const SeasonSelector = ({ classes, history, match }) => {
   return (
     <div className={classes.sideBar}>
       {
-        seasons.map((_, i) => (
+        seasons.map(({ file, name }, i) => (
           <div
             key={i}
-            className={`${classes.seasonButton} ${season == (i + 1) ? classes.selected : ''}`}
-            onClick={() => history.push(`/seasons/${i + 1}`)}
+            className={`${classes.seasonButton} ${season == file ? classes.selected : ''}`}
+            onClick={() => history.push(`/seasons/${file}`)}
           >
-            Season
-            {' '}
-            {i + 1}
+            {name}
           </div>
         ))
       }

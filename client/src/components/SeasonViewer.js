@@ -56,7 +56,7 @@ const SeasonViewer = ({ classes, match, history }) => {
   const [selectedSauce, setSelectedSauce] = useState(null);
   useEffect(() => {
     // eslint-disable-next-line
-    const sauces = require(`../sauces/season_${season}.json`);
+    const sauces = require(`../sauces/${season === 'code_katas' ? 'code_katas' : `season_${season}`}.json`);
     setSauces(sauces);
     const { sauce_id } = match.params;
     if (sauce_id) {

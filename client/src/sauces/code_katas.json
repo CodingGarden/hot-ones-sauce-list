@@ -1,0 +1,52 @@
+[
+  {
+    "id": 11,
+    "name": "Sriracha",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/sriracha.png",
+    "search_string": "Sriracha Huy Fong",
+    "maker": "Huy Fong",
+    "origin": "Irwindale, CA",
+    "website": "http://www.huyfong.com/",
+    "scovilles": 2200
+  },
+  {
+    "id": 5,
+    "name": "Pain is Good Louisiana Style",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/pain-is-good.png",
+    "search_string": "Pain is Good Louisiana Style Spicin Foods (FKA Original Juan)",
+    "maker": "Spicin Foods (FKA Original Juan)",
+    "origin": "Kansas City, KS",
+    "website": "https://www.spicinfoods.com/",
+    "scovilles": 13000
+  },
+  {
+    "id": 53,
+    "name": "Cheeba Gold",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/cheeba-gold.png",
+    "search_string": "Cheeba Gold High River Sauces",
+    "maker": "High River Sauces",
+    "origin": "Port Washington, NY",
+    "website": "http://highriversauces.com/",
+    "scovilles": 25300
+  },
+  {
+    "id": 21,
+    "name": "Zombie Apocalypse",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/zombie-apocalypse.png",
+    "search_string": "Zombie Apocalypse Torchbearer Sauces",
+    "maker": "Torchbearer Sauces",
+    "origin": "Mechanicsburg, PA",
+    "website": "http://www.torchbearersauces.com/",
+    "scovilles": 100000
+  },
+  {
+    "id": 17,
+    "name": "Mega Death",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/mega-death.png",
+    "search_string": "Mega Death Blair's",
+    "maker": "Blair's",
+    "origin": "Highlands, NJ",
+    "website": "http://extremefood.com/",
+    "scovilles": 550000
+  }
+]
