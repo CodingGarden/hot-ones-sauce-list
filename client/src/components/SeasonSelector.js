@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import { withRouter } from 'react-router-dom';
 
 const seasons = [];
-for (let i = 1; i <= 9; i += 1) {
+for (let i = 1; i <= 12; i += 1) {
   seasons.push({
     file: i,
     name: `Season ${i}`,

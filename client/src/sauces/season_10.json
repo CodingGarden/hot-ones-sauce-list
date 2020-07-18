@@ -1,0 +1,117 @@
+[
+    {
+      "id": 44,
+      "name": "The Classic",
+      "img_url": "https://hot-sauce-images.codinggarden.now.sh/hot-ones-classic.png",
+      "search_string": "The Classic Heatonist",
+      "maker": "Heatonist",
+      "origin": "Brooklyn, NY",
+      "website": "https://heatonist.com",
+      "scovilles": 1800
+    },
+
+    {
+        "id": 63,
+        "name": "The Chicago Red Hot Jalapeño Hot Sauce",
+        "img_url": "https://smallaxepeppers.com/wp-content/uploads/2019/07/tChi-Red-Hot-Jalapen%CC%83o-Front-1-600x600.jpg",
+        "search_string": "Small Axe Peppers - The Chicago Red Hot Jalapeño Hot Sauce",
+        "maker": "Small Axe Peppers",
+        "origin": "Bronx, NY",
+        "website": "https://smallaxepeppers.com/",
+        "scovilles": 2800
+      },
+
+      {
+        "id": 64,
+        "name": "Pineapple Habanero",
+        "img_url": "https://cdn.shopify.com/s/files/1/0184/7413/9757/products/HBHS_Pineapple_HotOnes_800x.png?v=1568300510",
+        "search_string": "Pineapple Habanero Heartbeat Hot Sauce",
+        "maker": "Heartbeat Hot Sauce",
+        "origin": "Thunder Bay, Ontario",
+        "website": "https://www.heartbeathotsauce.com",
+        "scovilles": 12200
+      },
+
+      {
+        "id": 39,
+        "name": "Los Calientes",
+        "img_url": "https://hot-sauce-images.codinggarden.now.sh/hot-ones-los-calientes.png",
+        "search_string": "Los Calientes Heatonist",
+        "maker": "Heatonist",
+        "origin": "Brooklyn, NY",
+        "website": "https://heatonist.com",
+        "scovilles": 36000
+      },
+
+      {
+        "id": 65,
+        "name": "Headless Horseradish",
+        "img_url": "https://www.torchbearersauces.com/wp-content/uploads/2020/01/Headless-Horseradish-sauce.png",
+        "search_string": "Headless Horseradish Torchbearer Sauces",
+        "maker": "Torchbearer Sauces",
+        "origin": "Mechanicsburg, PA",
+        "website": "http://www.torchbearersauces.com/",
+        "scovilles": 52000
+      },
+
+      {
+        "id": 66,
+        "name": "Fiya!Fiya",
+        "img_url": "https://adoboloco.com/wp-content/uploads/2019/09/FIYA-FIYA-Single-Front-Panel-IMG_1780-scaled.jpg",
+        "search_string": "Fiya!Fiya! Adoboloco",
+        "maker": "Adoboloco",
+        "origin": "Maui, HI",
+        "website": "http://adoboloco.com/",
+        "scovilles": 77000
+      },
+
+      {
+        "id": 67,
+        "name": " Aka Miso Ghost Reaper",
+        "img_url": "https://www.hot-headz.com/image/cache/data/BRAV-MISO-700x700.jpg",
+        "search_string": " Aka Miso Ghost Reaper Bravado Spice Co.",
+        "maker": "Bravado Spice Co.",
+        "origin": "Houston, TX",
+        "website": "http://bravadospice.com/",
+        "scovilles": 116000
+      },
+
+      {
+        "id": 16,
+        "name": "Da' Bomb Beyond Insanity",
+        "img_url": "https://hot-sauce-images.codinggarden.now.sh/da-bomb.png",
+        "search_string": "Da' Bomb Beyond Insanity Spicin Foods (FKA Original Juan)",
+        "maker": "Spicin Foods (FKA Original Juan)",
+        "origin": "Kansas City, KS",
+        "website": "https://www.spicinfoods.com/",
+        "scovilles": 135600
+      },
+
+      {
+        "id": 68,
+        "name": "Burn After Eating",
+        "img_url": "https://cdn.shopify.com/s/files/1/0041/5570/3365/products/burn_after_eating_front_featuredonhotones_900x.png?v=1589657528",
+        "search_string": "Burn After Eating Karma Sauce",
+        "maker": "Karma Sauce",
+        "origin": "Pittsford, NY",
+        "website": "https://www.karmasauce.com",
+        "scovilles": 669000
+      },
+
+      {
+        "id": 69,
+        "name": "The Last Dab XXX",
+        "img_url": "https://cdn.shopify.com/s/files/1/2086/9287/products/dabxxx1_1024x1024.jpg?v=1571290028",
+        "search_string": "The Last Dab XXX Heatonist",
+        "maker": "Heatonist",
+        "origin": "Brooklyn, NY",
+        "website": "https://heatonist.com",
+        "scovilles": 2000000
+      }
+  
+
+
+
+
+
+]
