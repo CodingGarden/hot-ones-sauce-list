@@ -1,0 +1,119 @@
+[
+    {
+        "id": 44,
+        "name": "The Classic",
+        "img_url": "https://hot-sauce-images.codinggarden.now.sh/hot-ones-classic.png",
+        "search_string": "The Classic Heatonist",
+        "maker": "Heatonist",
+        "origin": "Brooklyn, NY",
+        "website": "https://heatonist.com",
+        "scovilles": 1800
+      },
+
+      {
+        "id": 70,
+        "name": "Tamaulipeka",
+        "img_url": "https://imgur.com/0tToTVg.png",
+        "search_string": "Tamaulipeka Cantina Royal",
+        "maker": "Cantina Royal",
+        "origin": "Brooklyn, NY",
+        "website": "https://fijifirehotsauce.com/",
+        "scovilles": 4200
+      },
+
+      {
+        "id": 71,
+        "name": "Native Bongo Chilli Hot Sauce",
+        "img_url": "https://imgur.com/NYj2Qfa.png",
+        "search_string": "Native Bongo Chilli Hot Sauce Fiji Fire",
+        "maker": "Fiji Fire",
+        "origin": "Fiji",
+        "website": "https://fijifirehotsauce.com/",
+        "scovilles": 14300
+      },
+
+      {
+        "id": 72,
+        "name": "Scotch Bonnet Mustard",
+        "img_url": "https://imgur.com/IyZ8zhP.png",
+        "search_string": "Scotch Bonnet Mustard Double Take Salsa Co",
+        "maker": "Double Take Salsa Co",
+        "origin": "Edina, Minnesota",
+        "website": "https://www.doubletakesalsa.com",
+        "scovilles": 37000
+      },
+
+      {
+        "id": 73,
+        "name": "Los Calientes Rojo",
+        "img_url": "https://imgur.com/6h009kO.png",
+        "search_string": "Los Calientes Heatonist",
+        "maker": "Heatonist",
+        "origin": "Brooklyn, NY",
+        "website": "https://heatonist.com",
+        "scovilles": 49000
+      },
+  
+
+      {
+        "id": 74,
+        "name": "Hot Thai Green",
+        "img_url": "https://imgur.com/Vb0EmFX.png",
+        "search_string": "Hot Thai Green Seed Ranch",
+        "maker": "Seed Ranch",
+        "origin": "Boulder, CO",
+        "website": "https://www.seedranchflavor.com/",
+        "scovilles": 74000
+      },
+
+      {
+        "id": 75,
+        "name": "Stargazer",
+        "img_url": "https://imgur.com/AKkgRog.png",
+        "search_string": "Stargazer Pepper North",
+        "maker": "Pepper North",
+        "origin": "Oshawa, Canada",
+        "website": "https://www.peppernorth.com/",
+        "scovilles": 118000
+      },
+
+      {
+        "id": 16,
+        "name": "Da' Bomb Beyond Insanity",
+        "img_url": "https://hot-sauce-images.codinggarden.now.sh/da-bomb.png",
+        "search_string": "Da' Bomb Beyond Insanity Spicin Foods (FKA Original Juan)",
+        "maker": "Spicin Foods (FKA Original Juan)",
+        "origin": "Kansas City, KS",
+        "website": "https://www.spicinfoods.com/",
+        "scovilles": 135600
+      },
+
+      {
+        "id": 76,
+        "name": "Widow Maker",
+        "img_url": "https://imgur.com/IJw9GKX.png",
+        "search_string": "Widow Maker Dingo Sauce Co",
+        "maker": "Dingo Sauce Co",
+        "origin": "Perth, Western Australia",
+        "website": "https://dingosauceco.com",
+        "scovilles": 682000
+      },
+
+      {
+        "id": 69,
+        "name": "The Last Dab XXX",
+        "img_url": "https://imgur.com/sSmNxJ1.png",
+        "search_string": "The Last Dab XXX Heatonist",
+        "maker": "Heatonist",
+        "origin": "Brooklyn, NY",
+        "website": "https://heatonist.com",
+        "scovilles": 2000000
+      }
+  
+
+
+
+
+
+
+]

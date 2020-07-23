@@ -1,0 +1,120 @@
+[
+    
+    {
+    "id": 77,
+    "name": "The Classic Garlic Fresno Edition",
+    "img_url": "https://imgur.com/O34X30s.png",
+    "search_string": "The Classic Garlic Fresno Edition Heatonist",
+    "maker": "Heatonist",
+    "origin": "Brooklyn, NY",
+    "website": "https://heatonist.com",
+    "scovilles": 1700
+  },
+
+  {
+    "id": 78,
+    "name": "Jade Jaguar",
+    "img_url": "https://imgur.com/ZtRrxhq.png",
+    "search_string": "Jade Jaguar Steel City Sauce Co",
+    "maker": "Steel City Sauce Co",
+    "origin": "Hamilton, Ontario",
+    "website": "https://www.steelcitysauce.com/",
+    "scovilles": 3600
+  },
+
+  {
+    "id": 79,
+    "name": "Chipotle & Habanero",
+    "img_url": "https://imgur.com/odxEKmt.png",
+    "search_string": "Chipotle & Habanero Fresno Saice Co",
+    "maker": "Fresno Saice Co",
+    "origin": "Los Angeles, CA",
+    "website": "https://frescosauce.com/",
+    "scovilles": 12400
+  },
+
+  {
+    "id": 80,
+    "name": "Ghost Sauce",
+    "img_url": "https://imgur.com/eyiRz12.png",
+    "search_string": "Ghost Sauce Hotter Than El",
+    "maker": "Hotter Than El",
+    "origin": "Jacksonville, FL",
+    "website": "https://www.hotterthanel.com/",
+    "scovilles": 39000
+  },
+
+  {
+    "id": 73,
+    "name": "Los Calientes Rojo",
+    "img_url": "https://imgur.com/6h009kO.png",
+    "search_string": "Los Calientes Heatonist",
+    "maker": "Heatonist",
+    "origin": "Brooklyn, NY",
+    "website": "https://heatonist.com",
+    "scovilles": 49000
+  },
+
+  {
+    "id": 81,
+    "name": "Reaper",
+    "img_url": "https://imgur.com/qEQVqrb.png",
+    "search_string": "Reaper Seafire Gourmet",
+    "maker": "Seafire Gourmet",
+    "origin": "Seattle, WA",
+    "website": "http://davezfoodz.com/",
+    "scovilles": 72000
+  },
+
+
+  {
+    "id": 82,
+    "name": "Thor's Hammer",
+    "img_url": "https://imgur.com/3wTfcZa.png",
+    "search_string": "Thor's Hammer Volcanic Pepper'st",
+    "maker": "Volcanic Pepper's",
+    "origin": "Bellevue, NE",
+    "website": "http://volcanicpeppers.com/",
+    "scovilles": 121000
+  },
+
+  {
+    "id": 16,
+    "name": "Da' Bomb Beyond Insanity",
+    "img_url": "https://hot-sauce-images.codinggarden.now.sh/da-bomb.png",
+    "search_string": "Da' Bomb Beyond Insanity Spicin Foods (FKA Original Juan)",
+    "maker": "Spicin Foods (FKA Original Juan)",
+    "origin": "Kansas City, KS",
+    "website": "https://www.spicinfoods.com/",
+    "scovilles": 135600
+  },
+
+  {
+    "id": 83,
+    "name": "Pierde Almas",
+    "img_url": "https://imgur.com/Dm2NNUT.png",
+    "search_string": "Pierde Almas Monoloco",
+    "maker": "Monoloco",
+    "origin": "San José, San Pedro. Costa Rica",
+    "website": "https://www.chilemonoloco.com/",
+    "scovilles": 665000
+  },
+
+  {
+    "id": 69,
+    "name": "The Last Dab XXX",
+    "img_url": "https://imgur.com/sSmNxJ1.png",
+    "search_string": "The Last Dab XXX Heatonist",
+    "maker": "Heatonist",
+    "origin": "Brooklyn, NY",
+    "website": "https://heatonist.com",
+    "scovilles": 2000000
+  }
+
+
+
+
+
+
+
+]
